@@ -1,0 +1,39 @@
+Pakket van rapport maken...
+
+-----------------------------------------------------------------------------
+Document:
+Naam: Quadri.ai
+Kleurmodus: CMYK-kleur
+Kleurprofiel: Coated FOGRA39 (ISO 12647-2:2004)
+Maateenheid: millimeters
+Afmetingen van tekengebied: 297,0001 mm x 210,0016 mm
+Afbeeldingen tonen in omtrekmodus: UIT
+Vervangen lettertypen markeren: UIT
+Vervangen glyphs markeren: UIT
+Bewerkbaarheid van tekst behouden
+Gekleurd papier simuleren: UIT
+
+-----------------------------------------------------------------------------
+Steunkleurobjecten:
+
+-----------------------------------------------------------------------------
+Ontbrekende lettertypen:GEEN
+
+-----------------------------------------------------------------------------
+Beschermde lettertypen die niet in het pakket zijn opgenomen:GEEN
+
+-----------------------------------------------------------------------------
+Lettertypen:
+Quicksand Regular (OTF)
+
+-----------------------------------------------------------------------------
+Ingesloten lettertypen:
+GEEN
+
+-----------------------------------------------------------------------------
+Ontbrekende koppelingen:
+GEEN
+
+-----------------------------------------------------------------------------
+Gekoppelde afbeeldingen:
+GEEN
